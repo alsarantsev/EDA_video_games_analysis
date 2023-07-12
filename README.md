@@ -18,5 +18,12 @@ The main areas of study in this project are:
 1. Analyze the sales variation across different platforms, identifying platforms with the greatest total sales and assessing their growth or decline.
 2. Compare global games sales broken down by platform, determining whether significant differences in sales and average sales across platforms exist.
 3. Investigate the correlation between user and professional reviews and sales for one popular platform, concluding their impact.
+4. 
 </p>
 <p><h2>Summary </h2>
+- The lifecycle of platforms lasts around 9-10 years, with new platforms appearing and old ones fading after approximately 6 years. The period with the highest sales usually lasts 3-5 years.
+- To build a prognosis for 2017, it is recommended to work with data from 2013 onwards, disregarding previous years' data.
+- Promising platforms for potential profitability are "PS4" and "XOne," despite their sales declining in 2016.
+- Differences in sales among platforms are not significant based on the box plot analysis.
+- There is a positive but weak correlation between critics' scores and sales, indicating some impact but not a strong relationship. User scores have little impact on sales.
+- Comparing sales of the same games on different platforms, the correlation between sales and critic scores remains positive but varies in strength. The correlation between sales and user scores fluctuates and lacks consistency.
