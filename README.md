@@ -29,8 +29,8 @@ The main areas of study in this project are:
 3. Promising platforms for potential profitability are "PS4" and "XOne," despite declining sales in 2016.
 4. Differences in sales among platforms are not significant based on the box plot analysis.
 5. A positive but weak correlation between critics' scores and sales indicates some impact but not a strong relationship. User scores have little impact on sales.
-6. Comparing sales of the same games on different platforms, the correlation between sales and critic scores remains positive but varies in strength. The correlation between sales and user scores fluctuates and lacks consistency.</p>
+6. Comparing sales of the same games on different platforms, the correlation between sales and critic scores remains positive but varies in strength. The correlation between sales and user scores fluctuates and lacks consistency.
 7. For Europe and North American markets:
 I strongly suggest focusing on increasing attention towards games in the genres of "Action", "Shooter," and "Sports" on two highly profitable platforms, "PS4" and "XOne". In the future, advertising campaigns should be tailored towards pushing these games onto the market.
 For Japan region:
-Based on my analysis, I suggest focusing on the genres "Action", "Shooter", and "Role-Playing" on platforms such as "3DS" and "PS4". Additionally, it may be beneficial to explore available promotional offers.
+I suggest focusing on the genres "Action", "Shooter", and "Role-Playing" on platforms such as "3DS" and "PS4". Additionally, it may be beneficial to explore available promotional offers.</p>
