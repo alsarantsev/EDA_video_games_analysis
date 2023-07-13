@@ -7,7 +7,7 @@
 <p>Additionally, the dataset contains the abbreviation ESRB, which stands for the Entertainment Software Rating Board. ESRB evaluates the content of video games and assigns age ratings such as Teen or Mature to indicate the appropriate target audience for each game. This information is valuable in understanding the relationship between a game's content and its success in the market.</p>
 
 <p><b>Applied skills:</b> Exploratory Data Analysis, Visualization with Seaborn & Matplotlib </p>
-<p>**Note:** This project is a part of the <a href="https://practicum.com/en-isr/data-analyst/">Practicum Data Analysis program</a> </p>
+<p><b>Note:</b> This project is a part of the <a href="https://practicum.com/en-isr/data-analyst/">Practicum Data Analysis program</a> </p>
 
 <p><h2>Questions</h2>
   
